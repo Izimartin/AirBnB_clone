@@ -265,7 +265,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Aleazar Ashagrea</summary>
     <ul>
-    <li><a href="https://www.github.com/">Github</a></li>
+    <li><a href="https://www.github.com/https://github.com/aleazarda">Github</a></li>
     </ul>
 </details>
 <details>
